@@ -1,0 +1,21 @@
+{
+  "name": "wyn-dark-theme",
+  "displayName": "wyn dark theme",
+  "description": "idk",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.91.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Wynneia Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Wynneia Dark Theme-color-theme.json"
+      }
+    ]
+  }
+}
