@@ -7,11 +7,18 @@
 	  "editorCursor.foreground": "#FFFFFF",
 	  "editorLineNumber.foreground": "#444444",
 	  "editorLineNumber.activeForeground": "#00BFFF",
-	  "editor.selectionBackground": "#1A1A1A",
-	  "editor.inactiveSelectionBackground": "#12121200",
-	  "editor.selectionHighlightBackground": "#1e1e1e00",
-	  "editor.wordHighlightBackground": "#1a1a1a00",
-	  "editor.wordHighlightStrongBackground": "#1e1e1e00",
+	  "editor.selectionBackground": "#3D5AFE40",
+	  "editor.inactiveSelectionBackground": "#3D5AFE30",
+	  "editor.selectionHighlightBackground": "#FF79C630",
+	  "editor.wordHighlightBackground": "#50FA7B30",
+	  "editor.wordHighlightStrongBackground": "#FFB86C40",
+	  "editor.findMatchBackground": "#FF79C650",
+	  "editor.findMatchHighlightBackground": "#FF79C630",
+	  "editor.findRangeHighlightBackground": "#BD93F930",
+	  "editor.hoverHighlightBackground": "#3D5AFE20",
+	  "editor.lineHighlightBackground": "#1A1A1A",
+	  "editor.lineHighlightBorder": "#282828",
+	  "editor.rangeHighlightBackground": "#BD93F920",
 	  "editorGutter.background": "#000000",
 	  "sideBar.background": "#000000",
 	  "sideBar.foreground": "#E0E0E0",
@@ -42,13 +49,13 @@
 	  "activityBar.border": "#000000",
 	  "sideBar.border": "#000000",
 	  "editorGroupHeader.tabsBackground": "#000000",
-	  "list.activeSelectionBackground": "#1A1A1A",
+	  "list.activeSelectionBackground": "#3D5AFE40",
 	  "list.activeSelectionForeground": "#E0E0E0",
-	  "list.inactiveSelectionBackground": "#000000",
+	  "list.inactiveSelectionBackground": "#1A1A1A",
 	  "list.inactiveSelectionForeground": "#E0E0E0",
-	  "list.hoverBackground": "#000000",
+	  "list.hoverBackground": "#12121280",
 	  "list.hoverForeground": "#E0E0E0",
-	  "list.focusBackground": "#000000",
+	  "list.focusBackground": "#3D5AFE30",
 	  "list.focusForeground": "#E0E0E0",
 	  "list.highlightForeground": "#E0E0E0",
 	  "input.background": "#000000",
@@ -70,7 +77,7 @@
 	  "terminal.foreground": "#E0E0E0",
 	  "terminalCursor.background": "#FFFFFF",
 	  "terminalCursor.foreground": "#FFFFFF",
-	  "terminal.selectionBackground": "#1A1A1A"
+	  "terminal.selectionBackground": "#3D5AFE40"
 	},
 	"tokenColors": [
 	  {
@@ -213,4 +220,3 @@
 	  }
 	]
   }
-  
